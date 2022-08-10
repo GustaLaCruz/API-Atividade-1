@@ -20,18 +20,26 @@ class Produtos extends Migration
             'salario'=>[
                 'type'=>'double'
             ],
-            'nome'=>[
+            'ocupacao'=>[
                 'type'=>'varchar',
                 'constraint'=>'100',
+            ],
+            'nivel'=>[
+                'type'=>'int',
+                'constraint'=>'3',
+            ],
+            'sexo'=>[
+                'type'=>'varchar',
+                'constraint'=>'1',
             ],
 
         ]);
         $this->forge->addKey('id',true);
-        $this->forge->createTable('tb_produtos');
+        $this->forge->createTable('tb_funcionarios');
     }
 
     public function down()
     {
-        $this->forge->dropTable('tb_produtos');
+        $this->forge->dropTable('tb_funcionarios');
     }
 }

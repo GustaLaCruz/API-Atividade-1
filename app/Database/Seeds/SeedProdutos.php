@@ -8,15 +8,21 @@ class SeedProdutos extends Seeder
 {
     public function run()
     {
-        $descricao =['PC Gamer Kratos','PC Gamer Asgard','PC Gamer Valhalla','PC Gamer Loki','PC Gamer Odin','PC Gamer Balde'];
-        $valor =[9000,7800,15000,4500,23000,7000];
+        $nome =['Carlos','Antonio','Chavez','Kiko','Madruga','Abner'];
+        $salario =[9000,7800,15000,4500,23000,7000];
+        $ocupacao =['Segurança','Progamador Junior','Programador Senior','Designer Senior','Zelador','Do K.R.L'];
+        $nivel =['9','5','7','1','999','666'];
+        $sexo = ['M','M','M','M','M','M'];
         for($x = 0; $x<6; $x++){
             $data = [
-                'descricao' => $descricao[$x],
-                'valor'    => $valor[$x],
+                'nome' => $nome[$x],
+                'salario'    => $salario[$x],
+                'ocupacao' => $ocupacao[$x],
+                'nivel' => $nivel[$x],
+                'sexo' => $sexo[$x]
             ];
 
-            $this->db->table('tb_produtos')->insert($data);
+            $this->db->table('tb_funcionarios')->insert($data);
         }
     }
 }

@@ -25,6 +25,12 @@ class ProdutosController extends ResourceController
             return $this->response->setJson($data);
         }
 
+        public function funcionario()
+        {
+            $data = $this->produtosModel->getFuncionario();
+            return $this->response->setJson($data);
+        }
+
 
 
 

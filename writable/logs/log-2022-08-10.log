@@ -1,0 +1,1062 @@
+ERROR - 2022-08-10 12:21:58 --> Table 'api_database.tb_funcionarios' doesn't exist
+ERROR - 2022-08-10 12:21:58 --> Table 'api_database.tb_funcionarios' doesn't exist
+ERROR - 2022-08-10 12:21:58 --> Table 'api_database.tb_funcionarios' doesn't exist
+ERROR - 2022-08-10 12:21:58 --> Table 'api_database.tb_funcionarios' doesn't exist
+ERROR - 2022-08-10 12:21:58 --> Table 'api_database.tb_funcionarios' doesn't exist
+ERROR - 2022-08-10 12:21:58 --> Table 'api_database.tb_funcionarios' doesn't exist
+CRITICAL - 2022-08-10 12:40:17 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:40:18 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:40:18 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:40:19 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:40:22 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:42:42 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:42:43 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:45:35 --> Call to undefined method App\Models\ProdutosModel::row
+in SYSTEMPATH\Model.php on line 773.
+ 1 APPPATH\Models\ProdutosModel.php(17): CodeIgniter\Model->__call('row', [...])
+ 2 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario('3')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario('3')
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:45:38 --> Call to undefined method App\Models\ProdutosModel::row
+in SYSTEMPATH\Model.php on line 773.
+ 1 APPPATH\Models\ProdutosModel.php(17): CodeIgniter\Model->__call('row', [...])
+ 2 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario('1')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario('1')
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:45:41 --> Call to undefined method App\Models\ProdutosModel::row
+in SYSTEMPATH\Model.php on line 773.
+ 1 APPPATH\Models\ProdutosModel.php(17): CodeIgniter\Model->__call('row', [])
+ 2 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario('1')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario('1')
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:46:14 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:46:15 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:46:15 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:46:15 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:47 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:48 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:48 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:48 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:53 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:54 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:54 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:54 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:54 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:55 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:55 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:55 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:55 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:55 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:56 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:56 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:56 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:49:56 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:40 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:41 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:41 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:41 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:41 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:42 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:42 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:42 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:42 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:43 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:43 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:43 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:43 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:43 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:44 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:44 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:44 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:44 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:45 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:45 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:45 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:45 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:45 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:46 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:46 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:46 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:46 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:47 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:50:47 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:51:04 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:51:05 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:51:05 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:51:05 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:51:05 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:51:38 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:51:48 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:51:49 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:51:49 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:51:49 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:57:41 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:49 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:49 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:49 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:50 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:50 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:50 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:50 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:50 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:55 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:56 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:58 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:59 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:59 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:58:59 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:00 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:00 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:00 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:01 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:01 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:01 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:01 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:02 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:02 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:02 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:02 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:02 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:03 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:03 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:03 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:03 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:03 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:04 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:04 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:04 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:04 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:04 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 12:59:04 --> syntax error, unexpected end of file
+in APPPATH\Models\ProdutosModel.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Models\\ProdutosModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ProdutosModel')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ProdutosModel')
+ 4 APPPATH\Controllers\ProdutosController.php(14): spl_autoload_call('App\\Models\\ProdutosModel')
+ 5 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\ProdutosController->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:02:54 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:02:54 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:02:55 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:02:55 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:02:55 --> Too few arguments to function App\Models\ProdutosModel::getProduto(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 13.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getProduto()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:03:47 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:03:48 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:03:48 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:03:48 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:03:48 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:04:16 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:04:16 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:04:17 --> Too few arguments to function App\Controllers\ProdutosController::funcionario(), 0 passed in C:\wamp64\www\API-Atividade-1\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\ProdutosController.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:04:26 --> Too few arguments to function App\Models\ProdutosModel::getFuncionario(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 16.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:04:26 --> Too few arguments to function App\Models\ProdutosModel::getFuncionario(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 16.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:04:26 --> Too few arguments to function App\Models\ProdutosModel::getFuncionario(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 16.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-10 13:04:26 --> Too few arguments to function App\Models\ProdutosModel::getFuncionario(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 16.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
