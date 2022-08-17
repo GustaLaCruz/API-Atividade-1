@@ -1,0 +1,272 @@
+CRITICAL - 2022-08-17 11:59:18 --> Too few arguments to function App\Models\ProdutosModel::getFuncionario(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 16.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 11:59:32 --> Too few arguments to function App\Models\ProdutosModel::getFuncionario(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 16.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 11:59:35 --> Too few arguments to function App\Models\ProdutosModel::getFuncionario(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 16.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:00:28 --> Too few arguments to function App\Models\ProdutosModel::getFuncionario(), 0 passed in C:\wamp64\www\API-Atividade-1\app\Controllers\ProdutosController.php on line 30 and exactly 1 expected
+in APPPATH\Models\ProdutosModel.php on line 16.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:04:19 --> Call to a member function asArray() on array
+in APPPATH\Models\ProdutosModel.php on line 22.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:07:26 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:13 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:13 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:14 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:14 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:14 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:14 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:14 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:14 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:14 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:15 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:15 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:15 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:15 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:15 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:15 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:16 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:16 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:16 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:16 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:57 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:58 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:58 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:58 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:08:58 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:09:04 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:09:04 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:09:04 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-17 12:10:39 --> Call to a member function query() on null
+in APPPATH\Models\ProdutosModel.php on line 18.
+ 1 APPPATH\Controllers\ProdutosController.php(30): App\Models\ProdutosModel->getFuncionario()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\ProdutosController->funcionario()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdutosController))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')

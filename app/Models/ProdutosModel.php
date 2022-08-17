@@ -13,10 +13,12 @@ class ProdutosModel extends Model
    public function getProduto($id){
         return $this->asArray()->where(['id'=>$id])->first();
    }
-   public function getFuncionario($id){
-      $sql='SELECT * FROM tb_funcionarios LIMIT 3';    
-      $query = $this->db->query($SQL);
-      return $query->result();
-      //return $this->asArray()->where(['id'=>$id])->first();
+   public function getFuncionario(){
+
+
+      return $this->asArray()->find([1, 2, 3]);
+      //$query = $db->query('SELECT * FROM tb_funcionarios LIMIT 3');
+      //$results = $query->getResult();
+      //return $results->asArray();
    }
 }
